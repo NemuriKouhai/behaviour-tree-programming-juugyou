@@ -2343,6 +2343,35 @@ PrefabInstance:
       propertyPath: m_StaticShadowCaster
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4834930669150913803, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
+      propertyPath: 'managedReferences[9108497763751691153]'
+      value: 'Unity.Behavior Unity.Behavior.BlackboardVariable`1[[System.Single,
+        mscorlib]]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834930669150913803, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
+      propertyPath: managedReferences[9108497763751691153].Name
+      value: Speed
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834930669150913803, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
+      propertyPath: m_BlackboardVariableOverridesList.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834930669150913803, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
+      propertyPath: managedReferences[9108497763751691153].m_Value
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834930669150913803, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
+      propertyPath: 'm_BlackboardVariableOverridesList.Array.data[1]'
+      value: 9108497763751691153
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834930669150913803, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
+      propertyPath: managedReferences[9108497763751691153].GUID.m_Value0
+      value: 16121869670018513557
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834930669150913803, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
+      propertyPath: managedReferences[9108497763751691153].GUID.m_Value1
+      value: 17225624195138493363
+      objectReference: {fileID: 0}
     - target: {fileID: 8111728643589804410, guid: 3df7b2f9bba716346a68217a18c2070b, type: 3}
       propertyPath: m_Name
       value: Enemy
